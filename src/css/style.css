@@ -56,9 +56,6 @@ main {
     background: var(--Cor-do-botão-do-card-e-do-texto);
     width: 60px;
     height: 57px;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
     border-radius: 50%;
     transform:translateY(50%) ;
     text-align: center;
